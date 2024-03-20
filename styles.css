@@ -1,0 +1,29 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #EAF6F6;
+}
+
+
+button {
+  font-size:15px;
+  font-family: 'Montserrat', sans-serif;
+  width:100px;
+  height:35px;
+  border-width:1px;
+  color:#fff;
+  border-color:#566963;
+  font-weight:bold;
+  border-radius: 5px;
+  box-shadow:inset 0px 1px 3px 0px rgba(30, 33, 33, 1);
+  text-shadow:inset 0px -1px 0px rgba(8, 10, 9, 1);
+  background:linear-gradient(rgba(167, 172, 170, 1), rgba(17, 34, 34, 1));
+}
+
+button:hover {
+  background: linear-gradient(rgba(17, 34, 34, 1), rgba(167, 172, 170, 1));
+}
+
+
+img {
+  height:300px;
+}
